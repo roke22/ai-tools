@@ -143,6 +143,7 @@
 | **Smartsheet** | Plataforma de gestión empresarial tipo hoja de cálculo. | [smartsheet.com](https://www.smartsheet.com) |
 | **Evernote** | Herramienta de toma de notas con IA. | [evernote.com](https://evernote.com) |
 | **Taskade** | Espacio de trabajo colaborativo que combina chat, tareas y notas. | [taskade.com](https://www.taskade.com) |
+| **Productboard** | Plataforma para gestion de equipos de producto | [https://www.productboard.com/](https://www.productboard.com/) |
 
 
 ***
