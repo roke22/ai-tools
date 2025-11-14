@@ -392,5 +392,13 @@
 | **Guru** | Plataforma de gestión de conocimiento con IA. | [getguru.com](https://www.getguru.com) |
 | **Shortwave** | Cliente de email moderno con funciones de IA. | [shortwave.com](https://www.shortwave.com) |
 
+# Herramientas de diseño
+
+## Generación de estilos
+
+| Herramienta | ¿Para qué sirve? | Web |
+| :-- | :-- | :-- |
+| **Magicpath** | Generación de estilos para una web| https://www.magicpath.ai/ |
+
 
 ***
