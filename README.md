@@ -269,6 +269,7 @@
 | **OpusClip** | Convierte videos largos en clips cortos optimizados para redes sociales. | [opus.pro](https://www.opus.pro) |
 | **InVideo** | Plataforma de creación de vídeos en línea con plantillas y herramientas de IA. | [invideo.io](https://invideo.io) |
 | **Pictory** | Crea vídeos de alta calidad a partir de texto o contenido de vídeo largo. | [pictory.ai](https://pictory.ai) |
+| **videos.social** | Convierte blogs, PDFs y prompts en vídeos faceless editables. | [videos.social](https://videos.social/?utm_source=roke22-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) |
 
 
 ***
