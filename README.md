@@ -385,6 +385,7 @@
 | **Looka** | Generador de logos y branding con IA. | [looka.com](https://looka.com) |
 | **Teal** | Constructor de currículums con IA. | [tealhq.com](https://www.tealhq.com) |
 | **Kickresume** | Plataforma de creación de currículums con IA. | [kickresume.com](https://www.kickresume.com) |
+| **ResumeAI** | Constructor de currículums con IA y comprobaciones ATS gratuitas (3/día anónimo, 10/día con cuenta gratis); State of ATS 2026. | [withresumeai.com](https://withresumeai.com/) |
 | **Murf** | Generación de voiceover profesional con IA. | [murf.ai](https://murf.ai) |
 | **Attio** | CRM moderno con capacidades de IA. | [attio.com](https://attio.com) |
 | **NotebookLM (Google)** | Herramienta de investigación con IA de Google. | [notebooklm.google](https://notebooklm.google.com) |
