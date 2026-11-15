@@ -328,6 +328,7 @@
 | **Writesonic** | Creador de contenido de IA para artículos, anuncios y textos optimizados para SEO. | [writesonic.com](https://writesonic.com) |
 | **Sudowrite** | Herramienta de escritura creativa con IA para autores y novelistas. | [sudowrite.com](https://sudowrite.com) |
 | **Wordtune** | Herramienta de IA que ayuda a reescribir y mejorar la claridad de tus textos. | [wordtune.com](https://wordtune.com) |
+| **HumanPen** | Reescribe y traduce documentos; servicio por créditos con 100 gratis al registrarse. | [humanpen.net](https://humanpen.net/) |
 
 
 ***
